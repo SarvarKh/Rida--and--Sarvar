@@ -1,0 +1,49 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("black-business-computer-desk.jpg");
+    background-size: cover;
+    background-color: #cccccc;
+    font-family: 'Lato', sans-serif;
+    font-size: large;
+}
+
+.heading {
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    margin: 20px;
+}
+
+.input-form {
+    background-color: rgba(27, 27, 50, .8);
+    width: 600px;
+    color: white;
+    margin: auto;
+    padding-bottom: 40px;
+    border-radius: 5px;
+}
+
+#content-form {
+    padding-top: 50px;
+    padding-right: 30px;
+    width: 500px;
+    margin: auto;
+}
+
+.length {
+    width: 500px;
+}
+
+#submit {
+    background-color: #37af65;
+    color: white;
+    width: 490px;
+    text-align: center;
+    padding: 3px;
+    border-radius: 5px;
+}
